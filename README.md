@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ecc3ntr1c Sage
-=======================================================================================================================================
-
-Full Stack Developer/Quality Analyst
+Dark Mode enjoyer, like to read docs.
 ------------------------------------
 
 I'm working professionally as an AI Search Model Quality Analyst and secretly building an AI startup to satisfy my coding addiction.
