@@ -1,7 +1,7 @@
 Dark Mode enjoyer, like to read docs.
 ------------------------------------
 
-I'm working professionally as an AI Search Model Quality Analyst and secretly building an AI startup to satisfy my coding addiction.
+My background is Software Engineering. My goal in life is to explore every angle of tech. Currently working in AI Data QA while secretly building an AI startup to satisfy my coding addiction.
 
 * 🌍  I'm based in Kuala Lumpur
 * 🚀  I'm currently working on [Lofy Assistant](http://lofy-ai.com)
