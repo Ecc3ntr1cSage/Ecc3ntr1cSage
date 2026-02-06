@@ -1,7 +1,6 @@
 Dark Mode enjoyer, like to read docs.
 ------------------------------------
-
-My background is Software Engineering. My goal in life is to explore every angle of tech. Currently working in AI Data QA while secretly building an AI startup to satisfy my coding addiction.
+Full-stack dev with extra obsession for system design and clean architecture. Currently working in AI Data QA, while secretly building an AI startup on the side.
 
 * 🌍  I'm based in Kuala Lumpur
 * 🚀  I'm currently working on [Lofy Assistant](http://lofy-ai.com)
