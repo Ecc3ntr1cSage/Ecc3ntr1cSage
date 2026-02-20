@@ -2,8 +2,8 @@ Dark Mode enjoyer, like to read docs.
 ------------------------------------
 Full-stack dev with extra obsession for system design and clean architecture. Currently working in AI Data QA, while secretly building an AI startup on the side.
 
-* 🌍  I'm based in Kuala Lumpur
-* 🚀  I'm currently working on [Lofy Assistant](http://lofy-ai.com)
+* 🌍  Kuala Lumpur, MY
+* 🚀  Building:[Lofy Assistant](https://lofy-ai.com), an AI-powered productivity tool.
 
 <div align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
