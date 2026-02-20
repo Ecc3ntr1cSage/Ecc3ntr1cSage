@@ -42,7 +42,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /></a>
 
 </div>
-
+<br>
 <!-- Column 2 -->
 <div style="display:inline-block; width:32%; min-width:250px; margin-right:10px;">
 
@@ -76,7 +76,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" /></a>
 
 </div>
-
+<br>
 <!-- Column 3 -->
 <div style="display:inline-block; vertical-align:top; width:32%; min-width:250px;">
 
