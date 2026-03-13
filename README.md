@@ -1,6 +1,6 @@
 Dark Mode enjoyer, like to read docs.
 ------------------------------------
-Full-stack dev with extra obsession for system design and clean architecture. Currently working in AI Data QA, while secretly building an AI startup on the side.
+Full-stack dev with extra obsession for system design and clean architecture. Currently working in AI Data QA while quietly building AI products on the side.
 
 * 🌍  Kuala Lumpur, MY
 * 🚀  Building: [Lofy AI](https://lofy-ai.com), a smart companion.
