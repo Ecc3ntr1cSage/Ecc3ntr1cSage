@@ -1,4 +1,4 @@
-Dark Mode enjoyer, like to read docs.
+Hi, I'm Meor
 ------------------------------------
 Full-stack dev with extra obsession for system design and clean architecture. Currently working in AI Data QA while quietly building AI products on the side.
 
