@@ -122,9 +122,5 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <img src="https://github-stats-extended.vercel.app/api?username=Ecc3ntr1cSage&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark" width="400" />
 </div>
 
-
-
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
