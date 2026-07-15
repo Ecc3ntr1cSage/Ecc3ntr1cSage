@@ -114,6 +114,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 
 </div>
 </div>
+[![Ecc3ntr1c Sage's GitHub stats](https://github-stats-extended.vercel.app/api?username=Eccntr1cSage)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--START_SECTION:waka-->
