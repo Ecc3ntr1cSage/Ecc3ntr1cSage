@@ -117,8 +117,10 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 
 <br>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=ocean_dark" width="500" />
+<div style="display:inline-block; vertical-align:top; width:100%; min-width:250px;">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=ocean_dark" width="400" />
+<img src="[https://github-stats-extended.vercel.app/api?username=Ecc3ntr1cSage&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark)" width="400" />
+</div>
 
 
 
