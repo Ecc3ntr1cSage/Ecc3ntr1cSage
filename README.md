@@ -38,6 +38,10 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <a href="https://tailwindcss.com/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /></a>
 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" />
+  </a> 
+
 </div>
 <br>
 <!-- Column 2 -->
@@ -47,6 +51,10 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 
 <a href="https://nodejs.org/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /></a>
+
+ <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" />
+  </a>
 
 <a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
@@ -60,6 +68,14 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <a href="https://laravel.com/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" /></a>
 
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" />
+  </a>
+
+   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" />
+  </a>
+  
 <a href="https://www.postgresql.org/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /></a>
 
@@ -72,6 +88,9 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <a href="https://supabase.io/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" /></a>
 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
+  </a>
 </div>
 <br>
 <!-- Column 3 -->
@@ -90,12 +109,6 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 
 <a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
-
-<a href="https://www.figma.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /></a>
-
-<a href="https://www.sketch.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" /></a>
 
 </div>
 
