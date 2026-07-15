@@ -115,7 +115,9 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 
 </div>
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=ocean_dark)
+<a>
+<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg](https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=ocean_dark)" width="36" /></a>
+
 
 
 
