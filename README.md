@@ -113,9 +113,9 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 
 </div>
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=ocean_dark)
-</div>
 
+</div>
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=ocean_dark)
 
 
 
