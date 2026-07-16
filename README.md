@@ -81,7 +81,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
     <td align="center" colspan="2">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft&name=Ecc3ntr1cSage"
-        width="750"
+        width="700"
       />
     </td>
   </tr>
@@ -89,7 +89,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
     <td align="center" colspan="1">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8"
-        width="350"
+        width="350" height:"200"
       />
     </td>
     <td align="center" colspan="1">
