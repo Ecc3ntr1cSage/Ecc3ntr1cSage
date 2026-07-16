@@ -76,7 +76,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 </div>
 <br><br>
-<table style="border:none; border-collapse:collapse>
+<table style="border:none;>
   <tr>
     <td align="center" colspan="2">
       <img
