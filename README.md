@@ -8,10 +8,10 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 
 <!-- Row container -->
 <div>
-
+<b>Frontend</b>
 <!-- Column 1 -->
 <div style="display:inline-block; vertical-align:top; width:32%; min-width:250px; margin-right:10px;">
-<b>Frontend</b>
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /></a>
 <a href="https://www.w3.org/TR/CSS/#css">
