@@ -14,7 +14,6 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,alpinejs,flutter" />
   </a>
 </p>
-<br>
 <b>Backend</b>
 <!-- Column 2 -->
 <p align="left">
@@ -22,7 +21,6 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,py,fastapi,go,dart" />
   </a>
 </p>
-<br>
 <b>Database</b>
 <!-- Column 3 -->
 <p align="left">
