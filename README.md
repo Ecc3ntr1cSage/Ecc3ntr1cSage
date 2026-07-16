@@ -76,11 +76,11 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 </div>
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft" width="800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft" width="700" />
 <br><br>
-<div style="display:inline-block; vertical-align:top; width:32%; min-width:250px;">
-<img src="https://github-stats-extended.vercel.app/api?username=Ecc3ntr1cSage&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark" width="400" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8" width="400" />
+<div style="display:inline-block; vertical-align:top; width:32%; min-width:250px; gap:10px">
+<img src="https://github-stats-extended.vercel.app/api?username=Ecc3ntr1cSage&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark" width="300" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8" width="300" />
 </div>
 
 
