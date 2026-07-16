@@ -21,7 +21,6 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,py,fastapi,go,dart" />
   </a>
-  dart fastapi go Laravel nestjs nodejs php py
 </p>
 <br>
 <b>Database</b>
