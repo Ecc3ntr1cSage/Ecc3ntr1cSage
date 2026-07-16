@@ -76,7 +76,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 </div>
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft" width="700" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft&name=Ecc3ntr1cSage" width="700" />
 <br><br>
 <div style="display:inline-block; vertical-align:center; width:32%; min-width:250px; space-x:10px">
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=tokyonight" width="300" />
