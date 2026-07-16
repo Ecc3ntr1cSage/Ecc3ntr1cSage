@@ -76,17 +76,17 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 </div>
 <br><br>
-<table>
+<table style="border:none; border-collapse:collapse>
   <tr>
     <td align="center" colspan="2">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft&name=Ecc3ntr1cSage"
-        width="700"
+        width="750"
       />
     </td>
   </tr>
   <tr>
-    <td align="" colspan="1">
+    <td align="center" colspan="1">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8"
         width="350"
