@@ -11,7 +11,6 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <b>Frontend</b>
 <!-- Column 1 -->
 <div style="display:inline-block; vertical-align:top; width:32%; min-width:250px; margin-right:10px;">
-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /></a>
 <a href="https://www.w3.org/TR/CSS/#css">
@@ -32,9 +31,9 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a> 
 </div>
 <br>
+<b>Backend & Database</b>
 <!-- Column 2 -->
 <div style="display:inline-block; width:32%; min-width:250px; margin-right:10px;">
-<b>Backend & Database</b>
 <a href="https://nodejs.org/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
@@ -63,9 +62,9 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
 </div>
 <br>
+<b>DevOps & Tools</b>
 <!-- Column 3 -->
 <div style="display:inline-block; vertical-align:top; width:32%; min-width:250px;">
-<b>DevOps & Tools</b>
 <a href="https://www.docker.com/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
 <a href="https://cloud.google.com/">
@@ -76,9 +75,9 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
 </div>
 </div>
-<br height="200">
+<br><br>
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&hide_title=true&langs_count=4&theme=ocean_dark" width="400" />
-<br>
+<br><br>
 <img src="https://github-stats-extended.vercel.app/api?username=Ecc3ntr1cSage&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark" width="400" />
 </div>
 
