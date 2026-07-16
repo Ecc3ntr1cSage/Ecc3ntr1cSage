@@ -5,59 +5,39 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <h3>Tech Stack</h3>
 
 <div align="left">
-
 <!-- Row container -->
 <div>
 <b>Frontend</b>
 <!-- Column 1 -->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,alpinejs,flutter" />
   </a>
 </p>
 <br>
-<b>Backend & Database</b>
+<b>Backend</b>
 <!-- Column 2 -->
-<div style="display:inline-block; width:32%; min-width:250px; margin-right:10px;">
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a>
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" /></a>
-<a href="https://www.php.net/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" /></a>
-<a href="https://laravel.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /></a>
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" /></a>
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" /></a>
-<a href="https://supabase.io/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,py,fastapi,go,dart" />
+  </a>
+  dart fastapi go Laravel nestjs nodejs php py
+</p>
 <br>
-<b>DevOps & Tools</b>
+<b>Database</b>
 <!-- Column 3 -->
-<div style="display:inline-block; vertical-align:top; width:32%; min-width:250px;">
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
-<a href="https://cloud.google.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" /></a>
-<a href="https://www.digitalocean.com">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" /></a>
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase,firebase,dynamodb" />
+  </a>
+</p>
+<b>DevOps & Tools</b>
+<!-- Column 4 -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,gcp,aws,git,cloudflare,postman" />
+  </a>
+</p>
 </div>
 </div>
 <br><br>
