@@ -11,7 +11,7 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <!-- Column 1 -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,alpinejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,alpinejs,flutter" />
   </a>
 </p>
 <b>Backend</b>
