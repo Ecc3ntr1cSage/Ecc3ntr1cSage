@@ -1,6 +1,6 @@
 Hi, I'm Meor
 ------------------------------------
-Full-stack dev with extra obsession for system design and clean architecture. Currently working in AI Data QA while quietly building AI products on the side.
+Full-stack dev with extra obsession for system design and clean architecture. Currently working in AI Data QA while quietly building AI projects on the side.
 
 <h3>Tech Stack</h3>
 
