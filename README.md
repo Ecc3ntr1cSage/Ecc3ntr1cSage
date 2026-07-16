@@ -10,26 +10,11 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 <div>
 <b>Frontend</b>
 <!-- Column 1 -->
-<div style="display:inline-block; vertical-align:top; width:32%; min-width:250px; margin-right:10px;">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /></a>
-<a href="https://reactjs.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
-<a href="https://nextjs.org/docs">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" /></a>
-<a href="https://svelte.dev/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" /></a>
-<a href="https://tailwindcss.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a> 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,alpinejs,flutter" />
+  </a>
+</p>
 <br>
 <b>Backend & Database</b>
 <!-- Column 2 -->
