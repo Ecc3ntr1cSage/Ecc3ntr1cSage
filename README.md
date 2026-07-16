@@ -76,12 +76,32 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
 </div>
 </div>
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft&name=Ecc3ntr1cSage" width="700" />
-<br><br>
-<div style="display:inline-block; vertical-align:center; width:32%; min-width:250px; space-x:10px">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=tokyonight" width="300" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8" width="300" />
-</div>
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecc3ntr1cSage&theme=tokyonight&animation=rgb-soft&name=Ecc3ntr1cSage"
+        width="700"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=tokyonight"
+        width="350"
+      />
+    </td>
+
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8"
+        width="350"
+      />
+    </td>
+  </tr>
+</table>
 
 
 <!--START_SECTION:waka-->
