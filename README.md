@@ -85,18 +85,16 @@ Full-stack dev with extra obsession for system design and clean architecture. Cu
       />
     </td>
   </tr>
-
   <tr>
-    <td align="center">
+    <td align="" colspan="1">
       <img
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8"
         width="350"
       />
     </td>
-
-    <td align="center">
+    <td align="center" colspan="1">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecc3ntr1cSage&theme=tokyonight&utcOffset=+8"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=Ecc3ntr1cSage&layout=compact&langs_count=4&theme=tokyonight"
         width="350"
       />
     </td>
